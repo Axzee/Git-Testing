@@ -2,5 +2,9 @@ body{
     background-color:blue;
 }
 header{
+    /* dev1 */
     color:red;
+    /* dev2 */
+    margin:20px;
+    padding:20px;
 }
